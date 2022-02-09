@@ -1111,7 +1111,7 @@ export default function App(props) {
             marginTop: 20,
           }}
         >
-          <Container style={{ flexDirection: "row-reverse" }}>
+          <Container style={{ flexDirection: "row" }}>
             <View
               style={{
                 flexDirection: "row-reverse",
