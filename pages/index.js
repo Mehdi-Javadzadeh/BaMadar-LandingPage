@@ -485,7 +485,7 @@ export default function App(props) {
         >
           {/* best sell text holder */}
           <View>
-            <View style={{ flexDirection: "row-reverse", width: "100%" }}>
+            <View style={{ flexDirection: "row", width: "100%" }}>
               <Image
                 source={{
                   uri: "/images/shopping-bag.svg",
@@ -508,7 +508,7 @@ export default function App(props) {
           {/* best sell products holder */}
           <View
             style={{
-              flexDirection: "row-reverse",
+              flexDirection: "row",
               justifyContent: "space-between",
               padding: 20,
             }}
@@ -800,7 +800,7 @@ export default function App(props) {
         >
           {/* most popular text holder */}
           <View>
-            <View style={{ flexDirection: "row-reverse", width: "100%" }}>
+            <View style={{ flexDirection: "row", width: "100%" }}>
               <Image
                 source={{
                   uri: "/images/tag.svg",
