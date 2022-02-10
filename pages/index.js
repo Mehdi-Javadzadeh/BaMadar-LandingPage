@@ -1297,7 +1297,7 @@ const styles = StyleSheet.create({
   },
   hotSuggest: {
     marginTop: 15,
-    justifyContent: "flex-end",
+    justifyContent: "center",
     width: "20%",
     padding: 10,
     // marginLeft: 10,
