@@ -1,5 +1,5 @@
 import { StyleSheet, Text, View, Image } from "react-native";
-// import Image from "next/image";
+import Image from "next/image";
 import React, { useState } from "react";
 import { Pressable } from "react-native";
 import { ScrollView } from "react-native";
