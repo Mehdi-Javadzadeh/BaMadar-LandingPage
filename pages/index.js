@@ -1,10 +1,10 @@
-import { StyleSheet, Text, View, Image } from "react-native";
+import { StyleSheet, Text, View } from "react-native";
+import Image from "next/image";
 import React, { useState } from "react";
 import { Pressable } from "react-native";
 import { ScrollView } from "react-native";
 import { Container } from "../Components/Container";
 import { TextInput } from "react-native";
-import { ImageBackground } from "react-native-web";
 
 export default function App(props) {
   return (
