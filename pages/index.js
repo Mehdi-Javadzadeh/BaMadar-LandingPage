@@ -1114,7 +1114,7 @@ export default function App(props) {
           <Container style={{ flexDirection: "row" }}>
             <View
               style={{
-                flexDirection: "row-reverse",
+                flexDirection: "row",
                 alignItems: "center",
                 padding: 25,
               }}
